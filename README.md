@@ -5,10 +5,10 @@ or a JWT and get its details — validity, chain, SAN, algorithms and claims —
 **entirely in the browser**. There is no backend; certificates and tokens never
 leave your machine.
 
-Part of the [project hub](https://sergiogbernardo.github.io/), alongside
-[Bytevg](https://sergiogbernardo.github.io/Bytevg/),
-[Inspectorvg](https://sergiogbernardo.github.io/Inspectorvg/) and
-[Scanvg](https://sergiogbernardo.github.io/Scanvg/).
+Part of the [project hub](https://sabion.io/), alongside
+[Bytevg](https://sabion.io/Bytevg/),
+[Inspectorvg](https://sabion.io/Inspectorvg/) and
+[Scanvg](https://sabion.io/Scanvg/).
 
 ## Modules
 
